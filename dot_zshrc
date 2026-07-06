@@ -14,8 +14,8 @@ export XDG_CONFIG_HOME="/Users/mars/.config"
 
 setopt INTERACTIVE_COMMENTS
 
-#source ~/.config/env.sh
-#source ~/.config/format.sh
+source ~/.config/env.sh
+source ~/.config/format.sh
 source ~/.config/aliases.sh
 
 autoload -Uz compinit bashcompinit
