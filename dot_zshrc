@@ -16,7 +16,7 @@ setopt INTERACTIVE_COMMENTS
 
 #source ~/.config/env.sh
 #source ~/.config/format.sh
-#source ~/.config/aliases.sh
+source ~/.config/aliases.sh
 
 autoload -Uz compinit bashcompinit
 compinit
