@@ -1,4 +1,4 @@
 font-family = "FiraCode Nerd Font Mono"
 font-size = 12
 
-theme = dark:_m1,light:_m3_light
+theme = dark:_m1_dark,light:_m3_light

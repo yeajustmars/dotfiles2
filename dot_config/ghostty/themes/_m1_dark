@@ -1,0 +1,27 @@
+# Primary Colors
+background = #1b1e28
+foreground = #a6accd
+cursor-color = #CA6600
+cursor-text = #FFFFFF
+selection-background = 303340
+selection-foreground = #c6d0f5
+
+# Normal Colors
+palette = 0=#1b1e28
+palette = 1=#ff76f3
+palette = 2=#93b054
+palette = 3=#fffac2
+palette = 4=#89ddff
+palette = 5=#a578af
+palette = 6=#add7ff
+palette = 7=#ffffff
+
+# Bright Colors
+palette = 8=#a6accd
+palette = 9=#d0679d
+palette = 10=#5de4c7
+palette = 11=#fffac2
+palette = 12=#add7ff
+palette = 13=#fae4fc
+palette = 14=#89ddff
+palette = 15=#ffffff
