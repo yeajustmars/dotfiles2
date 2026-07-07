@@ -1,0 +1,26 @@
+# Primary Colors
+background = #FFFFFF
+foreground = #37474f
+
+# Selection Color (base02 / one_bg)
+selection-background = #ebebeb
+
+# Normal Colors
+palette = 0=#ffffff
+palette = 1=#ef5350
+palette = 2=#66bb6a
+palette = 3=#d0b22b
+palette = 4=#0075a0
+palette = 5=#2565aa
+palette = 6=#7000FF
+palette = 7=#37474f
+
+# Bright Colors
+palette = 8=#c4c4c4
+palette = 9=#bf616a
+palette = 10=#75c279
+palette = 11=#e2c12f
+palette = 12=#42a5f5
+palette = 13=#1247a7
+palette = 14=#7006ff
+palette = 15=#263238
