@@ -40,7 +40,7 @@ if [ -f "$AURUM_COMPLETION_FILE" ]; then
   source "$AURUM_COMPLETION_FILE"
 fi
 
-$HOME/zsh/zsh-clj-shell.plugin.zsh
+source $HOME/zsh/zsh-clj-shell.plugin.zsh
 
 eval "$(starship init zsh)"
 
